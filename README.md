@@ -24,6 +24,10 @@ Node.js comes with powerful tools built-in. Let’s explore some of them!
 const os = require('os');
 console.log(os.platform(), os.homedir());
 
+```
+
+
+
 ## 🎯 Success Criteria
 
 * You used 2–3 built-in Node modules.
